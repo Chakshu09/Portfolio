@@ -1,0 +1,70 @@
+header{display: inline-block;
+		background:#000000;
+	background-image: url("D:/html5/images/163915.jpg");
+	height: 200px;
+	width:1335px;
+	background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center;
+}
+a{
+color:#FFFFFF;
+margin: 60px;
+padding: 10px 10px 10px 10px;
+background: transparent;
+border: 1px ;
+	border: solid;
+	border-color: #FFFFFF;
+text-decoration: none;
+-webkit-border-radius: 12px;
+display: inline-block; 
+width: 180px;
+height: 25px;
+text-align: center;
+font-size: 140%;
+  }
+  a:hover {
+    background-color: #FFFFFF;
+    color: #000000;
+}
+  a:active {
+    background-color: #FF0000;
+    color: #000000;
+    border: 1px ;
+	border: solid;
+	border-color: #FF0000;
+}
+ .right{background: #000000;
+ 	background-image: url("D:/html5/images/163899.jpg");
+	height: 700px;
+	width:1000px;
+	background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center;
+		float: right;}
+#logo{height: 100px;
+	width:100px;
+position: relative;
+ left: 840px;}
+.left{display: inline-block;
+ 	text-align: left;
+ 	width: 333px;
+ 	height: 700px;
+    color: #FFFFFF;
+    background:#000000;
+    background-image: url("D:/html5/images/163935.jpg");
+ float: left;
+ }
+
+section a {
+	color:#FFFFFF;
+margin: 40;
+padding: 0px 20px 10px 20px;
+border: none;
+}
+
+#motto{
+	color:#FFFFFF;
+	display:inline-block;
+	padding: 340px 300px
+}
